@@ -1,6 +1,6 @@
 # PS1
 
-## linux shell color
+linux shell color
 
 ```
 $ echo PS1 //看現在設定
