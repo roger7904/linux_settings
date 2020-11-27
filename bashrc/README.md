@@ -1,4 +1,4 @@
-# PS1
+# 
 
 linux shell color
 
